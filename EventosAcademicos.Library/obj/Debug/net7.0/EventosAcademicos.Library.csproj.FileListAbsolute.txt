@@ -1,0 +1,11 @@
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\bin\Debug\net7.0\EventosAcademicos.Library.deps.json
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\bin\Debug\net7.0\EventosAcademicos.Library.dll
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\bin\Debug\net7.0\EventosAcademicos.Library.pdb
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\EventosAcademicos.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\EventosAcademicos.Library.AssemblyInfoInputs.cache
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\EventosAcademicos.Library.AssemblyInfo.cs
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\EventosAcademicos.Library.csproj.CoreCompileInputs.cache
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\EventosAcademicos.Library.dll
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\refint\EventosAcademicos.Library.dll
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\EventosAcademicos.Library.pdb
+C:\Proyects\Universidad\parcial\GestionEventosAcademicos\EventosAcademicos.Library\obj\Debug\net7.0\ref\EventosAcademicos.Library.dll
